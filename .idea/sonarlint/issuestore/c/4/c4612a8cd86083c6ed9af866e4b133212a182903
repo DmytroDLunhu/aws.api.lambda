@@ -1,0 +1,12 @@
+
+f
+java:S1192%"KDefine a constant instead of duplicating this literal "pathParams" 4 times.(„÷ÝŠøÿÿÿÿ
+^
+java:S11928"HDefine a constant instead of duplicating this literal "message" 3 times.(ÎéµÁ
+f
+java:S11926"KDefine a constant instead of duplicating this literal "statusCode" 6 times.(¢É•Ãøÿÿÿÿ
+l	java:S116"WRename this field "DYNAMO_TABLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¢ç…
+I
+java:S1172E".Remove this unused method parameter "context".(É°´³þÿÿÿÿ
+I
+java:S1172f".Remove this unused method parameter "context".(ó‚á¯ÿÿÿÿÿ

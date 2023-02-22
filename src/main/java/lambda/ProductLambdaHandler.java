@@ -59,7 +59,7 @@ public class ProductLambdaHandler implements RequestStreamHandler {
                 responseObject.put("body", responseBody.toString());
             }
         } catch (ParseException e) {
-            throw new RuntimeException(e);
+            context.getLogger().log("ERROR : " + e.getMessage());
         }
         writer.write(responseObject.toString());
         reader.close();
